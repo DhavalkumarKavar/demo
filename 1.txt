@@ -8,4 +8,7 @@ This is from master branch
 
 This is second change from feature1 branch
 
+
 This is change from feature1 again
+
+This is third change from master branch
